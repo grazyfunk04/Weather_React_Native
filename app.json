@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.grazyfunk04.Weather_React_Native"
     },
     "web": {
       "favicon": "./assets/favicon.png"
